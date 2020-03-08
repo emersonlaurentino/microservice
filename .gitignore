@@ -31,7 +31,7 @@ node_modules
 Thumbs.db
 
 # Ignore built ts files
-dist/**/*
+dist
 
 # ignore package-lock.json
 package-lock.json
