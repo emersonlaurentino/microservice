@@ -8,7 +8,7 @@ This repository is intended to be a template for creating microservices using th
 - Typescript
 - Express
 - Eslint
-- Prittier
+- Prettier
 - Eslint
 - Jest
 - Docker
@@ -20,7 +20,7 @@ This repository is intended to be a template for creating microservices using th
 - [x] Typescript
 - [x] Express
 - [x] Eslint
-- [x] Prittier
+- [x] Prettier
 - [x] Eslint
 - [ ] Jest
 - [ ] Docker
