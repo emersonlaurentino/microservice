@@ -23,5 +23,5 @@ This repository is intended to be a template for creating microservices using th
 - [x] Prettier
 - [x] Eslint
 - [ ] Jest
-- [ ] Docker
+- [x] Docker
 - [ ] Kubernetes
