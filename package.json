@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "build-ts": "tsc",
-    "build": "npm run npm run build-ts && npm run lint",
+    "build": "npm run build-ts && npm run lint",
     "debug": "npm run build && npm run watch-debug",
     "lint": "tsc --noEmit && eslint \"**/*.ts\" --quiet --fix",
     "serve-debug": "nodemon --inspect dist/index.js",
