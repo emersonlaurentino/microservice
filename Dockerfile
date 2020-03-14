@@ -1,6 +1,6 @@
 FROM mhart/alpine-node:latest
 WORKDIR /usr/src
-COPY package.json yarn.lock tsconfig.json .eslintrc /usr/src/
+COPY package.json yarn.lock tsconfig.json /usr/src/
 COPY src src
 RUN yarn
 RUN yarn build

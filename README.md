@@ -4,24 +4,26 @@ This repository is intended to be a template for creating microservices using th
 
 ## Stack
 
-- Node
-- Typescript
-- Express
-- Eslint
-- Prettier
-- Eslint
-- Jest
 - Docker
+- Eslint
+- Eslint
+- Express
+- Github Actions
+- Jest
 - Kubernetes
+- Node
+- Prettier
+- Typescript
 
 ## Roadmap
 
-- [x] Node
-- [x] Typescript
-- [x] Express
-- [x] Eslint
-- [x] Prettier
-- [x] Eslint
-- [ ] Jest
 - [x] Docker
+- [x] Eslint
+- [x] Eslint
+- [x] Express
+- [x] Github Actions
+- [ ] Jest
 - [ ] Kubernetes
+- [x] Node
+- [x] Prettier
+- [x] Typescript
