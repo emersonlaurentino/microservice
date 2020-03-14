@@ -6,7 +6,6 @@ This repository is intended to be a template for creating microservices using th
 
 - Docker
 - Eslint
-- Eslint
 - Express
 - Github Actions
 - Jest
@@ -18,7 +17,6 @@ This repository is intended to be a template for creating microservices using th
 ## Roadmap
 
 - [x] Docker
-- [x] Eslint
 - [x] Eslint
 - [x] Express
 - [x] Github Actions
